@@ -1,6 +1,7 @@
 # SGMP-AV-research
 Research: Self-supervised Generative Multimodal Pedestrian framework for Autonomous Vehicles (SGMP-AV-framework))
 
+Note: This is restricted information make available publically; for more insight please contact on email. 
 
 # SGMP-AV: Self-Supervised Generative Multimodal Pedestrian Framework for Autonomous Vehicles
 
